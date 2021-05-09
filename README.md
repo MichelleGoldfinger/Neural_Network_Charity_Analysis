@@ -32,9 +32,10 @@ I removed the EIN and NAME columns from the original dataset because they were n
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 I used 5 neurons, 15 layers and relu activation functions for my layers and sigmoid activation function for the output layer. I chose these because of the rule that layers should be 2-3x the amount of neurons.
-Were you able to achieve the target model performance?
 
 <img width="1387" alt="Screen Shot 2021-05-09 at 3 29 57 PM" src="https://user-images.githubusercontent.com/75905911/117584509-7314c700-b0db-11eb-9dd1-f5ebf8cd1fc1.png">
+
+Were you able to achieve the target model performance?
 
 With all the parameters that I choose the model had a 70% accuracy. The target performance was 75% so I did not achieve this performance.
 
