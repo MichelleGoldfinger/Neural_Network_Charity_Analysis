@@ -63,4 +63,17 @@ The third optimization I performed was to change the number of epochs from 	100 
 
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
-For my first-pass the model performed at 70% accuracy. After changing the APPLICATION counts from 500 to 5000 and CLASSIFICATION counts from 1000 to 2000. This change led to a 73% accuracy score. After changing the number of hidden layers from 15 to 100 the model’s accuracy score was 70% . After changing the number of epochs from 100 to 200 the accuracy score was. Therefore, the most beneficial optimization was. The least beneficial optimization was.
+For my first-pass the model performed at 70% accuracy. After changing the APPLICATION counts from 500 to 5000 and CLASSIFICATION counts from 1000 to 2000, the accuracy score increased to 73%. 
+
+<img width="815" alt="Screen Shot 2021-05-09 at 3 48 50 PM" src="https://user-images.githubusercontent.com/75905911/117584987-123abe00-b0de-11eb-9a9b-9097ed3a5adb.png">
+
+After changing the number of hidden layers from 15 to 100 the model’s accuracy score was 70%. 
+
+<img width="818" alt="Screen Shot 2021-05-09 at 3 49 44 PM" src="https://user-images.githubusercontent.com/75905911/117585013-31395000-b0de-11eb-9a1f-2dceed86762e.png">
+
+
+After changing the number of epochs from 100 to 200 the accuracy score was 70%. 
+
+<img width="827" alt="Screen Shot 2021-05-09 at 3 50 19 PM" src="https://user-images.githubusercontent.com/75905911/117585031-49a96a80-b0de-11eb-8c9a-fce11593142f.png">
+
+Therefore, the most beneficial optimization was changing the APPLICATION and CLASSIFICATION counts. The least beneficial optimization was both changing the number of hidden layers and epoches.
