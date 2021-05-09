@@ -76,4 +76,4 @@ After changing the number of epochs from 100 to 200 the accuracy score was 70%.
 
 <img width="827" alt="Screen Shot 2021-05-09 at 3 50 19 PM" src="https://user-images.githubusercontent.com/75905911/117585031-49a96a80-b0de-11eb-8c9a-fce11593142f.png">
 
-Therefore, the most beneficial optimization was changing the APPLICATION and CLASSIFICATION counts. The least beneficial optimization was both changing the number of hidden layers and epoches.
+Therefore, the most beneficial optimization was changing the APPLICATION and CLASSIFICATION counts. The least beneficial optimizations were both changing the number of hidden layers and epoches.
