@@ -5,7 +5,7 @@
 
 Using the features in the dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
-* Deliverable 1 is where I preprocessed the data for the neural network model. Deliverable 2 is where I compiled, trained, and evaluated the model. Deliverable 3 is where I optimized the model.
+Deliverable 1 is where I preprocessed the data for the neural network model. Deliverable 2 is where I compiled, trained, and evaluated the model. Deliverable 3 is where I optimized the model.
 
 ## Results: Using bulleted lists and images to support your answers, address the following questions.
 
@@ -35,7 +35,8 @@ Were you able to achieve the target model performance?
 
 With all the parameters that I choose the model had a 70% accuracy. The target performance was 75% so I did not achieve this performance.
 
-<img width="1387" alt="Screen Shot 2021-05-09 at 3 29 57 PM" src="https://user-images.githubusercontent.com/75905911/117584542-8e7fd200-b0db-11eb-9bcb-8dede02b2b93.png">
+<img width="819" alt="Screen Shot 2021-05-09 at 3 30 47 PM" src="https://user-images.githubusercontent.com/75905911/117584774-c8050d00-b0dc-11eb-88c4-113704ed93c8.png">
+
 
 
 What steps did you take to try and increase model performance?
