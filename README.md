@@ -37,7 +37,7 @@ I used 5 neurons, 15 layers and relu activation functions for my layers and sigm
 
 Were you able to achieve the target model performance?
 
-With all the parameters that I choose the model had a 70% accuracy. The target performance was 75% so I did not achieve this performance.
+With all the parameters that I choose the model had a 70% accuracy. The target performance was 75%, so I did not achieve this performance.
 
 <img width="819" alt="Screen Shot 2021-05-09 at 3 30 47 PM" src="https://user-images.githubusercontent.com/75905911/117584774-c8050d00-b0dc-11eb-88c4-113704ed93c8.png">
 
