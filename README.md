@@ -42,8 +42,8 @@ With all the parameters that I choose the model had a 70% accuracy. The target p
 <img width="819" alt="Screen Shot 2021-05-09 at 3 30 47 PM" src="https://user-images.githubusercontent.com/75905911/117584774-c8050d00-b0dc-11eb-88c4-113704ed93c8.png">
 
 
-
 What steps did you take to try and increase model performance?
+
 I did three different optimization trails. The first was to change the APPLICATION counts from 500 to 5000. I also changed the CLASSIFICATION counts from 1000 to 2000.
 
 <img width="1398" alt="Screen Shot 2021-05-09 at 3 32 35 PM" src="https://user-images.githubusercontent.com/75905911/117584612-f209ff80-b0db-11eb-84b1-b7a8c34b3dbd.png">
