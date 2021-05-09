@@ -11,12 +11,14 @@ Deliverable 1 is where I preprocessed the data for the neural network model. Del
 
 ### Data Preprocessing:
 What variable(s) are considered the target(s) for your model?
+
 The variable that was used as the target for this model was the IS_SUCCESSFUL data.
 
 <img width="809" alt="Screen Shot 2021-05-09 at 3 26 49 PM" src="https://user-images.githubusercontent.com/75905911/117584435-03064100-b0db-11eb-9b7d-b170e1c7fd77.png">
 
 
 What variable(s) are considered to be the features for your model?
+
 The following variables were used as features in this model: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, IMCOME_AMT, SPECIAL_CONSIDERATIONS and ASK_AMOUNT.
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
