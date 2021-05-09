@@ -22,6 +22,7 @@ What variable(s) are considered to be the features for your model?
 The following variables were used as features in this model: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, IMCOME_AMT, SPECIAL_CONSIDERATIONS and ASK_AMOUNT.
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
+
 I removed the EIN and NAME columns from the original dataset because they were neither targets nor features.
 
 <img width="829" alt="Screen Shot 2021-05-09 at 3 27 57 PM" src="https://user-images.githubusercontent.com/75905911/117584450-26c98700-b0db-11eb-8995-129db92df805.png">
